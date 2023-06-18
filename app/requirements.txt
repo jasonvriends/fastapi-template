@@ -1,0 +1,11 @@
+uvicorn
+
+fastapi[all]
+
+beanie
+motor
+
+pydantic
+pydantic[email,dotenv]
+
+fief-client[fastapi]
